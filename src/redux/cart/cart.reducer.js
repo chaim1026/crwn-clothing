@@ -1,5 +1,5 @@
-import cartIconComponent from '../../components/cart-icon/cart-icon.component';
-import { removeItem } from './cart.actions';
+// import cartIconComponent from '../../components/cart-icon/cart-icon.component';
+// import { removeItem } from './cart.actions';
 import CartActionTypes  from './cart.types';
 import { addItemToCart, removeItemFromCart } from './cart.utils';
 
